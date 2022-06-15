@@ -7,7 +7,7 @@ export default function NavBar(props) {
     <>
 <nav className={`navbar navbar-expand-lg navbar -${props.mode} bg-${props.mode}`}>
     <Container className='mt-2'>
-    <Navbar.Brand><a className={`link-cs text-${props.mode==='light'?'dark':'light'}`} href="#">TextUtilize</a></Navbar.Brand>
+    <Navbar.Brand><a className={`link-cs text-${props.mode==='light'?'dark':'light'}`} href="#">Resturant</a></Navbar.Brand>
         {/* <NavLink ><Link to="">Base</Link></NavLink>
         <NavLink ><Link to="/Home">Home</Link></NavLink> */}
         {/* <NavLink > */}
