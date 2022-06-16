@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/blogrepo/static/css/main.d06d2867.css",
-    "main.js": "/blogrepo/static/js/main.ad150509.js",
-    "static/js/787.f587e8d5.chunk.js": "/blogrepo/static/js/787.f587e8d5.chunk.js",
-    "index.html": "/blogrepo/index.html",
-    "main.d06d2867.css.map": "/blogrepo/static/css/main.d06d2867.css.map",
-    "main.ad150509.js.map": "/blogrepo/static/js/main.ad150509.js.map",
-    "787.f587e8d5.chunk.js.map": "/blogrepo/static/js/787.f587e8d5.chunk.js.map"
+    "main.css": "/blogrepo2/static/css/main.d06d2867.css",
+    "main.js": "/blogrepo2/static/js/main.108b8336.js",
+    "static/js/787.f587e8d5.chunk.js": "/blogrepo2/static/js/787.f587e8d5.chunk.js",
+    "index.html": "/blogrepo2/index.html",
+    "main.d06d2867.css.map": "/blogrepo2/static/css/main.d06d2867.css.map",
+    "main.108b8336.js.map": "/blogrepo2/static/js/main.108b8336.js.map",
+    "787.f587e8d5.chunk.js.map": "/blogrepo2/static/js/787.f587e8d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d06d2867.css",
-    "static/js/main.ad150509.js"
+    "static/js/main.108b8336.js"
   ]
 }
